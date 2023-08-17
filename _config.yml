@@ -38,19 +38,19 @@ navigation:
         url: '#goals'
       - page: Resources
         url: '#resources'
-  - page: In-Class Code
+  - page: Code
     url: '#inclasscode'
   - title: Coursework
     subfolderitems:
-      - page: Homework and Quizzes
+      - page: Checkpoints
         url: '#hwqz'
       - page: Labs
         url: '#labs'
-      - page: Projects
+      - page: Project
         url: '#projects'
       - page: Exams
         url: '#exams'
-      - page: Scale
+      - page: Grading
         url: '#scale'
   - page: Commitments
     url: '#commitments'
@@ -88,29 +88,27 @@ offerings:
     instructor: goadrich
 
 resources:
-  - name: Python 3
-    image: assets/images/pythonlogo.png
-    url: http://python.org
-  - name: Azure Notebooks
-    image: assets/images/azure.png
-    url: https://notebooks.azure.com/
-  - name: Pycharm
-    image: assets/images/pycharmlogo.png
-    url: https://www.jetbrains.com/pycharm/
+  - name: Statistical Reasoning
+    image: assets/images/oli.jpeg
+    url: https://oli.cmu.edu/courses/statistical-reasoning/
+  - name: Kaggle
+    image: kaggle_icon.png
+    url: https://www.kaggle.com/
+  - name: Tidyverse
+    image: tidyverse.png
+    url: https://www.tidyverse.org/
+
 
 extra-resources:
-  - name: "How to Think Like a Computer Scientist: Interactive Edition"
+  - name: Introduction to Modern Statistics
     image: assets/images/runestone_logo.png
-    url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-  - name: Python Tutor
+    url: https://openintro-ims.netlify.app/
+  - name: OpenStax Introductory Statistics
     image: assets/images/python_tutor.png
-    url: http://pythontutor.com/
-  - name: CodingBat Python
+    url: https://openstax.org/details/books/introductory-statistics
+  - name: Learning Statistics with R
     image: assets/images/codingbat.jpg
-    url: https://codingbat.com/python
-  - name: CheckiO Python Practice
-    image: assets/images/checkio_logo_small.png
-    url: https://py.checkio.org/
+    url: https://learningstatisticswithr.com/
 
 # Build settings
 markdown: kramdown

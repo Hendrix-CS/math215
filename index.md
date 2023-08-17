@@ -16,19 +16,16 @@ layout: course-single
 
 ## <a name="goals">Learning Goals</a>
 
-Upon completing this course, our goal is for you to be able to:
+By the end of this course, students will
 
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
+* summarize data using exploratory data analysis techniques
+* identify sampling methods used to produce data.
+* determine how samples differ from populations using probability
+* create and analyze distributions of variables.
+* use a sample to infer (or draw conclusions) about the population from which it was drawn.
+* an appreciation for the diverse applications of statistics and its relevance to their lives and fields of study 
 
-## <a name="resources">Resources</a>
+## <a name="resources">Textbook</a>
 
 {% include resources.html content=site.resources %}
 
@@ -38,15 +35,14 @@ Upon completing this course, our goal is for you to be able to:
 
 ## Laptop Policy
 
-Please **do not bring laptops to lecture**. This may seem strange in a computer science class. But lab is the place where you will get plenty of experience working on the computer; lecture is a time for thinking and learning without the distraction of a computer.
-
-Exceptions may be made on a case-by-case basis if you can prove to me that you really do benefit from using your laptop to take notes.
-
+Please **bring laptops to class**. Much of our in-class time will be spent working through exercises and labs to increase your understanding of statistics.
 <hr>
 
-# <a name="inclasscode">In-Class Code</a>
+# <a name="inclasscode">Code</a>
 
 When we write code together in class, it will be posted here!
+
+<!--
 
 | Date | Topic | Code |
 |:----:|------||-----||
@@ -54,75 +50,129 @@ When we write code together in class, it will be posted here!
 | W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
 | F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
 
+-->
+
 <hr>
+
 # Coursework
 
-Each student has **four late days** to spend throughout the semester as they wish.
-Simply inform the instructor any time *prior* to the due date for an assignment
-that you wish to use a late day; you may then turn in the assignment up to 24
-hours late. Multiple late days may be used on the same assignment. There are no
-partial late days; turning in an assignment 2 hours late or 20 hours late will
-both use 1 late day. Note that late days are intended to cover both normal
-circumstances (you simply want more time to work on the assignment) and
-exceptional circumstances (you get sick, travel for a game or family
-obligation, *etc.*). After you have used up your late days, late assignments
-will receive at most half credit.
+[*Adapted from Spencer Bagley and David Clark, via [Robert
+Talbert](https://rtalbert.org/a-real-world-approach-to-deadlines/)*]
 
-## <a name="hwqz">Homework and Quizzes</a>: 140 points
+MATH 215 uses a **real-world policy** on due dates---but this may not
+mean what you think!  In the *real* real world, due dates exist but
+they are often not ironclad.  Assignments have due dates to help you 
+make progress in the course and solidify your knowledge before moving on 
+to something new. Your life and schedule may not perfectly coincide 
+with the due dates I have chosen. If you need more time to
+get the job done well, you email whoever set the deadline to ask if
+you can have more time.  Studies have shown that deadline extension
+requests---in moderation and when truly needed---often lead to
+*better* employee evaluations (not to mention better work). [*See [Go
+Ahead and Ask for More Time on that
+Deadline](https://hbr.org/2021/12/go-ahead-and-ask-for-more-time-on-that-deadline)
+by Ashley Williams*.]
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+**If you need an extension on a due date, email me and explain what
+you need**, and it will probably be fine.  It helps if you propose a
+concrete new deadline (*e.g.* "I can get it done by 5pm on
+Wednesday").  If you ask for lots of extensions, we'll work together
+to find a way to help you keep up.  Note, however, that late
+submissions may not receive feedback as quickly as on-time
+submissions.
 
-There will often be short homework assignments to be completed over the weekend, assigned on Friday and due Wednesday, sometimes with a corresponding quiz at the beginning of class on Wednesday.
+If you have significant extenuating circumstances that cause you to
+miss multiple deadlines, please [come to office
+hours](markgoadrich.youcanbook.me) to discuss broader accommodations.  I'm
+happy to be flexible, but it helps to know what you need so I can
+figure out the best way to help.
+
+{% include important.html content="You must be in communication with me anytime an assignment is late." %}
+
+If you would like to improve an assignment after it has been graded and improve your grade, you may revise and resubmit the assignment until you do. This must be **within two weeks of receiving feedback**. If you need more than two weeks, *you must schedule a meeting with me to discuss your reasons for the delay*.
+
+However, the above only applies if you **made a reasonable attempt at the assignment the first time**. You cannot turn in a half-finished assignment before the deadline and then “revise” it by completing the rest. If your assignment is only half-finished, you must request use late days as described above.
+
+{% include important.html content="All work and revisions must be completed the day of the final exam period for this course at 5pm." %}
+
+## <a name="hwqz">Checkpoints</a>
 
 ## <a name="labs">Labs</a>: 260 points
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 | Sep 4-5 |
-|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
-|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 
-Much of your experience with programming in this course will be through weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
+Much of your experience with statistics in this course will be through weekly labs. Each lab will be assigned with time allotted to work through the materials in class, and will be due **on Saturdays**. 
 
-On these labs, you will work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
+On these labs, you may work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment.
 
-**Lab attendance is required**. Labs take place in the **Snoddy Computer Lab**, in the Bailey Library. As you go through the exterior door of the library, turn immediately to your left and enter the Snoddy Academic Resource Center. Continue through the door at the far end of the hall into the first computer lab, and then enter the second lab at the back.
 
-## <a name="projects">Projects</a>: 350 points
+## <a name="projects">Project</a>
 
-| #  | Name | Points | Assigned | Due |
-|:--:|-----||:------:|:--------:|:---:|
-|1 | [Sample Project]({{site.baseurl}}/projects/sample-project.html)  | 50  | Sep 21 | Sep 30 |
-|2 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 100 | Oct 16 | Nov 1 |
-|3 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 200 | Nov 18 | Final Exam Day |
+| #  | Name | 
+|:--:|-----|
+|1 | Final Project | 
 
-You will have three projects in this course, one about every five weeks. These projects will cover concepts we have discussed in class and in labs, and will be due approximately one week after they are assigned.
+You will have a final project in this course, where you analyze a dataset with statistics, write a paper summarizing your conclusions about the data, and give a short presentation during our finals period.
 
-**You must work individually on the first two projects.** You may discuss concepts and ideas with your classmates, but the code you turn in must be your own. You will be graded not only on correctness, but also technique, documentation and evaluation of your solution. Further details on the grading standards and handin instructions for each project will be given when they are assigned.
+**You must work individually on this project.** You may discuss concepts and ideas with your classmates, but the work you turn in must be your own. More details will be provided in the middle of the semester.
 
-## <a name="exams">Exams</a>: 250 points
+## <a name="exams">Exams</a>
 
-There will be three in-class exams, the first worth 50 points and the second and
-third worth 100 of your final grade. They will consist of short answer
-questions along with writing and debugging code.
+There will be two in-class exams. They will consist of short answer questions along with writing and debugging code.
 
-* Exam 1: Sep 20, covering functions, math, numerical data, conditionals, and binary encoding
-* Exam 2: Oct 16, covering input/output, while loops, lists, and strings
-* Exam 3: Nov 25, covering for loops, dictionaries, classes and objects
 
-There is no final exam; you will complete a final project instead, as described above under Projects.
+There is no final exam; you will complete a final project instead, as described above.
 
-## <a name="scale">Grading Scale</a>
+## <a name="checkins">Checkins</a>
 
-| Score  | Grade  |
-|:------:|:------:|
-| 900-1000  | A   |
-| 800-899   | B   |
-| 700-799   | C   |
-| 600-699   | D   |
-| 0-599     | F   |
+Three times throughout the semester, you are expected to
+make an office hours appointment and discuss your progress in the course. This will include conversation and feedback about your current progress and understanding.
+Ideally, these checkins should be scheduled during the weeks shown
+on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2023-08-13?ids=3632637&projectIds=3632637&publicKeys=xejRn6hKircu&prefs=P2lkcz0zNjMyNjM3JnB1YmxpY19rZXlzPXhlalJuNmhLaXJjdQ%3D%3D).
+
+
+## <a name="attendance">Attendance</a>
+
+Attending class and being an active participant in the class community
+is one of the [most important contributors to your learning at Hendrix](https://www.hendrix.edu/Catalog/2023-2024/Academic_Policies_and_Regulations/Policies_and_Appeals/D_6_e__Class_Attendance/).
+Attendance is especially important in this class since you will often engage in group learning activities. Active participation is expected in order to achieve higher grade levels in the course. 
+
+If you know that you will be absent, please email me so that we can find accomodations. If there is an emergency, please get in touch with me as soon as is possible once the emergency is resolved. I trust you to be honest with me about your reasons for the absence (I do not need details), and honest with yourself about if you truly need to be absent.
+
+
+## <a name="scale">Specifications Grading</a>
+
+### A Level Work
+
+* Complete 9 Labs + 1 Partially Complete
+* Complete 18 Checkpoints + 2 Partially Complete
+* Complete 2 Exams
+* Complete Final Project
+* Complete 3 Checkins
+* Abundant Participation in Classroom Activities
+
+### B Level Work
+
+* Complete 8 Labs + 2 Partially Complete
+* Complete 16 Checkpoints + 3 Partially Complete
+* Complete 2 Exams
+* Complete Final Project
+* Complete 2 Checkins
+* Active Participation in Classroom Activities
+
+### C Level Work
+
+* Complete 7 Labs + 2 Partially Complete
+* Complete 14 Checkpoints + 4 Partially Complete
+* Complete 1 Exam + 1 Partially Complete
+* Partially Complete Final Project
+* Complete 1 Checkin
+* Participation in Classroom Activities
+
+### D Level Work
+
+* Complete 6 Labs
+* Complete 12 Checkpoints
+* Partially Complete 2 Exams
+* Partially Complete Final Project
+* Complete 1 Checkin
+
