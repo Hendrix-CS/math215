@@ -88,26 +88,26 @@ offerings:
     instructor: goadrich
 
 resources:
-  - name: Statistical Reasoning
+  - name: Statistical Reasoning Textbook
     image: assets/images/oli.jpeg
     url: https://oli.cmu.edu/courses/statistical-reasoning/
   - name: Kaggle
-    image: kaggle_icon.png
+    image: assets/images/kaggle_icon.png
     url: https://www.kaggle.com/
   - name: Tidyverse
-    image: tidyverse.png
+    image: assets/images/tidyverse.png
     url: https://www.tidyverse.org/
 
 
 extra-resources:
   - name: Introduction to Modern Statistics
-    image: assets/images/runestone_logo.png
+    image: assets/images/openintro_logo.webp
     url: https://openintro-ims.netlify.app/
   - name: OpenStax Introductory Statistics
-    image: assets/images/python_tutor.png
+    image: assets/images/osxlogo.png
     url: https://openstax.org/details/books/introductory-statistics
   - name: Learning Statistics with R
-    image: assets/images/codingbat.jpg
+    image: assets/images/djnavarro.jpeg
     url: https://learningstatisticswithr.com/
 
 # Build settings

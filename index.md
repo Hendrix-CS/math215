@@ -23,9 +23,9 @@ By the end of this course, students will
 * determine how samples differ from populations using probability
 * create and analyze distributions of variables.
 * use a sample to infer (or draw conclusions) about the population from which it was drawn.
-* an appreciation for the diverse applications of statistics and its relevance to their lives and fields of study 
+* gain an appreciation for the diverse applications of statistics and its relevance to their lives and fields of study 
 
-## <a name="resources">Textbook</a>
+## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
 
@@ -40,13 +40,14 @@ Please **bring laptops to class**. Much of our in-class time will be spent worki
 
 # <a name="inclasscode">Code</a>
 
-When we write code together in class, it will be posted here!
+We will be using R for this course, but not following the R instructions in the textbook. Instead we will use the `tidyverse` version of R, which is specifically designed for easy analysis and plotting. When you encounter a section of the text that uses R, please refer to the documents below. These documents will be great resources for working through the labs. It is critical that you not just read the documents, but run the code and modify it to test your understanding.
 
-<!--
 
 | Date | Topic | Code |
 |:----:|------||-----||
-| F 30 Aug | Intro to Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
+| T 22 Aug | Examining Distributions | [Exercises](https://www.kaggle.com/code/markgoadrich/math-215-examining-distributions) |
+| R 24 Aug | Examining Relationships | [Exercises](https://www.kaggle.com/code/markgoadrich/math-215-examining-relationships) |
+<!--
 | W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
 | F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
 
@@ -97,7 +98,7 @@ However, the above only applies if you **made a reasonable attempt at the assign
 
 ## <a name="hwqz">Checkpoints</a>
 
-## <a name="labs">Labs</a>: 260 points
+## <a name="labs">Labs</a>
 
 
 Much of your experience with statistics in this course will be through weekly labs. Each lab will be assigned with time allotted to work through the materials in class, and will be due **on Saturdays**. 
