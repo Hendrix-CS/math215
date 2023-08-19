@@ -27,31 +27,36 @@ By the end of this course, students will
 
 ## <a name="resources">Resources</a>
 
+We will be using the *Statistical Reasoning* textbook from the Open Learning Initiative. You will need to purchase ($25) access to this text, using the "Course Key" **MATH215**. You will use this website to submit your Checkpoints and various exercises to help me track your progress and provide targeted feedback to improve your understanding.
+
+You will also need to make a free account on the Kaggle website linked below. This is where you be working through examples and exercises, creating your Lab notebooks, and writing your final Project.
+
 {% include resources.html content=site.resources %}
 
 ## <a name="additional-resources">Optional Resources</a>
+
+These are some other online resources for learning statistics. You are not required to read them, but can use them for additional and diverse perspectives on the course topics.
 
 {% include resources.html content=site.extra-resources %}
 
 ## Laptop Policy
 
 Please **bring laptops to class**. Much of our in-class time will be spent working through exercises and labs to increase your understanding of statistics.
+
 <hr>
 
 # <a name="inclasscode">Code</a>
 
-We will be using R for this course, but not following the R instructions in the textbook. Instead we will use the `tidyverse` version of R, which is specifically designed for easy analysis and plotting. When you encounter a section of the text that uses R, please refer to the documents below. These documents will be great resources for working through the labs. It is critical that you not just read the documents, but run the code and modify it to test your understanding.
+Each week there will be assigned readings from the textbook. It is expected that you will have **read through the material before our Tuesday class times** and worked through the in-text exercises to check your understanding along the way.
 
+For our statistical software, we will be using R for this course, but we will not following the R instructions in the textbook. Instead we will use the `tidyverse` version of R, which is specifically designed for easy analysis and plotting.
 
-| Date | Topic | Code |
-|:----:|------||-----||
-| T 22 Aug | Examining Distributions | [Exercises](https://www.kaggle.com/code/markgoadrich/math-215-examining-distributions) |
-| R 24 Aug | Examining Relationships | [Exercises](https://www.kaggle.com/code/markgoadrich/math-215-examining-relationships) |
-<!--
-| W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
+When you encounter a section of the text that uses R, **follow the instructions on the Kaggle documents below**. These documents will be great resources for working through the labs. It is critical that you not just read the documents, but **run the code and modify it** to test your understanding.
 
--->
+| Date | Topic |
+|:----:|-------|
+| R 24 Aug | [Examining Distributions](https://www.kaggle.com/code/markgoadrich/math-215-examining-distributions) |
+| T 29 Aug | [Examining Relationships](https://www.kaggle.com/code/markgoadrich/math-215-examining-relationships) |
 
 <hr>
 
@@ -98,12 +103,21 @@ However, the above only applies if you **made a reasonable attempt at the assign
 
 ## <a name="hwqz">Checkpoints</a>
 
+In each section, there will be Checkpoint exercises that you need to complete. These will be due **on Wednesdays at 5pm**. You may repeat the checkpoints to improve your score, and the most recent score will be recorded.
+
 ## <a name="labs">Labs</a>
 
+Much of your experience with statistics in this course will be through weekly labs. Each lab will be assigned with time allotted to work through the materials in class, and will be due **on Saturdays at 5pm**. 
 
-Much of your experience with statistics in this course will be through weekly labs. Each lab will be assigned with time allotted to work through the materials in class, and will be due **on Saturdays**. 
+As you work to answer the questions in the labs, you will need to be recording your answers in a Kaggle notebook. Use the Markdown sections to write up your thoughts and answers to the prompts, and use Code sections to write R code and generate your answers. To submit your labs, you will download your notebook (it will be a *.ipynb file) and hand it in through Teams.
 
 On these labs, you may work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment.
+
+A **partially complete** lab will include correct code to help answer each question, and minimal answers to most of the lab prompts.
+A **complete** lab will do the above and include clear sections for each question, full explanations of each step of your code and reasoning, along with a reflection on your experience working through the lab.
+
+## <a name="participation">Participation</a>
+
 
 
 ## <a name="projects">Project</a>
