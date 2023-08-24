@@ -106,9 +106,9 @@ In each section, there will be Checkpoint exercises that you need to complete. T
 
 These quizzes are designed to encourage you to study the course material throughout the semester rather than waiting until the midterm exams.
 
-A **partially complete** lab will earn at least 60% of the points available.
+A **partially complete** checkpoint will earn at least 60% of the points available.
 
-A **complete** lab will earn at least 80% of the points available.
+A **complete** checkpoint will earn at least 80% of the points available.
 
 ## <a name="labs">Labs</a>
 
@@ -118,7 +118,7 @@ As you work to answer the questions in the labs, you will need to be recording y
 
 | #  | Name | 
 |:--:|-----|
-|1 | [Examining Distributions](https://www.kaggle.com/code/markgoadrich/math-215-lab-1-examining-distributions) | 
+|1 | [Examining Distributions (pg. 38)](https://www.kaggle.com/code/markgoadrich/math-215-lab-1-examining-distributions) | 
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
