@@ -119,6 +119,7 @@ As you work to answer the questions in the labs, you will need to be recording y
 | #  | Name | 
 |:--:|-----|
 |1 | [Examining Distributions (pg. 38)](https://www.kaggle.com/code/markgoadrich/math-215-lab-1-examining-distributions) | 
+|2 | [Examining Relationships (pg. 66)](https://www.kaggle.com/markgoadrich/math-215-lab-2-examining-relationships) |
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
