@@ -41,7 +41,7 @@ navigation:
   - page: Code
     url: '#inclasscode'
   - page: Calendar
-    url: 'https://app.teamgantt.com/public/projects/calendar/2023-08-13?ids=3632637&projectIds=3632637&publicKeys=xejRn6hKircu&prefs=P2lkcz0zNjMyNjM3JnB1YmxpY19rZXlzPXhlalJuNmhLaXJjdQ%3D%3D'
+    url: 'https://app.teamgantt.com/public/projects/calendar/?ids=3632637&projectIds=3632637&publicKeys=xejRn6hKircu&prefs=P2lkcz0zNjMyNjM3JnB1YmxpY19rZXlzPXhlalJuNmhLaXJjdQ%3D%3D'
   - title: Coursework
     subfolderitems:
       - page: Checkpoints
