@@ -165,6 +165,8 @@ on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2023
 Each of you will choose one class throughout the term to find statistics used in a piece of popular press about a current event. You will prepare a brief **presentation** (5 minutes) of the current event you chose and describe the statistics used in it. 
 You may work in pairs for this assignment (8 minutes total).
 
+Use [this form](https://forms.gle/6DNvcSbCQYi8uk3G7) to submit your topic, I will then assign you a presentation date.
+
 A **complete** presentation will address how an understanding of statistics 
 * made the information more valuable
 * allowed you to consider it critically.
