@@ -123,6 +123,7 @@ As you work to answer the questions in the labs, you will need to be recording y
 |2 | [Examining Relationships (pg. 66)](https://www.kaggle.com/markgoadrich/math-215-lab-2-examining-relationships) |
 |3 | [Sampling and Designing Studies (pg. 87)](https://www.kaggle.com/markgoadrich/math-215-lab-3-sampling-and-designing-studies) |
 |4 | [Probability](https://www.kaggle.com/code/markgoadrich/math-215-lab-4-probability) |
+|5 | [Sampling Distributions](https://www.kaggle.com/code/markgoadrich/math-215-lab-5-sampling-distributions) |
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
