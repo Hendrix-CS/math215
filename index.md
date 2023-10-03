@@ -58,6 +58,9 @@ When you encounter a section of the text that uses R, **follow the instructions 
 | T 29 Aug | [Examining Relationships](https://www.kaggle.com/code/markgoadrich/math-215-examining-relationships) |
 | T 5 Sep | [Sampling and Designing Studies](https://www.kaggle.com/code/markgoadrich/math-215-sampling-designing-studies) |
 | T 2 Oct | [Estimation](https://www.kaggle.com/markgoadrich/math-215-estimation) |
+
+
+
 <hr>
 
 # Coursework
