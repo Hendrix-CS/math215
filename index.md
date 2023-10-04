@@ -121,12 +121,13 @@ Much of your experience with statistics in this course will be through weekly la
 As you work to answer the questions in the labs, you will need to be recording your answers in a Kaggle notebook. Use the Markdown sections to write up your thoughts and answers to the prompts, and use Code sections to write R code and generate your answers. To submit your labs, you will download your notebook (it will be a *.ipynb file) and hand it in through Teams. Here are the notebook templates to get started with your lab work.
 
 | #  | Name | 
-|:--:|-----|
+|:--:|------|
 |1 | [Examining Distributions (pg. 38)](https://www.kaggle.com/code/markgoadrich/math-215-lab-1-examining-distributions) | 
 |2 | [Examining Relationships (pg. 66)](https://www.kaggle.com/markgoadrich/math-215-lab-2-examining-relationships) |
 |3 | [Sampling and Designing Studies (pg. 87)](https://www.kaggle.com/markgoadrich/math-215-lab-3-sampling-and-designing-studies) |
 |4 | [Probability](https://www.kaggle.com/code/markgoadrich/math-215-lab-4-probability) |
 |5 | [Sampling Distributions](https://www.kaggle.com/code/markgoadrich/math-215-lab-5-sampling-distributions) |
+|6 | [Estimation and Confidence Intervals](https://www.kaggle.com/markgoadrich/math-215-lab-6-estimation) | 
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
