@@ -147,7 +147,7 @@ A **complete** lab will include
 
 | #  | Name | 
 |:--:|-----|
-|1 | Final Project | 
+|1 | [Final Project]({{site.baseurl}}/projects/finalproject.html)  | 
 
 You will have a final project in this course, where you analyze a dataset with statistics, write a paper summarizing your conclusions about the data, and give a short presentation during our finals period. This will be similar to the labs, but will be using a data set and research questions of your choice.
 
