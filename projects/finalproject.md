@@ -15,9 +15,9 @@ help summarize your statistics and data analysis skills we have been building th
 
 ### Important dates
 
--   Project topic: **{{page.designdue}} @ 5pm**
--   Rough Draft due: **{{page.draftdue}} @ 8pm**
--   Project due: **{{page.finaldue}} @ 8pm**
+-   Project topic: **{{page.topicdue}} @ 5pm**
+-   Rough Draft due: **{{page.draftdue}} @ 5pm**
+-   Project due: **{{page.finaldue}} @ 5pm**
 -   Presentations: **{{page.finaldue}}, 8:30-11:30am**
 
 ## Dataset
@@ -26,11 +26,11 @@ Your first task is to find an interesting dataset that you will explore in your 
 
 Use your chosen dataset to create a new public dataset on Kaggle in your account. Then create a notebook that includes this dataset and reads in the information into a data frame.
 
-You will need to have your topic and dataset approved by the instructor by **{{page.designdue}} @ 5pm**.
+You will need to have your topic and dataset approved by the instructor by **{{page.topicdue}} @ 5pm**.
 
 There are an enormous number of datasets available formatted as CSV files. Here are some resources to help your initial search.
 
-*  [R CSV Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html). 
+*  [R CSV Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 *  [Centre Dataset Resources](https://library.centre.edu/DataScience/finddatasets)
 *  [Data.gov](https://data.gov/)
 *  [USGS Science Data](https://www.usgs.gov/products/data)
@@ -87,7 +87,7 @@ Your paper should have the following headings and sections:
 
 First, you should lay the groundwork for the topic you will be discussing in your paper. What would someone need to know about the topic if they are unfamiliar with it in order to understand your analysis below? What questions will you be answering with your graphs, statistical analysis, and later discussion? Do you have a hypothesis for what you will find when you do the analysis?
 
-{% include note.html content="You must be asking at least **two** different questions about your dataset." %}
+{% include important.html content="You must be asking at least **two** different questions about your dataset." %}
 
 This will probably involve a few references to outside material or other websites. If it is a website, make a link to it; if it is a textbook, use a consistent citation structure.
 You may use [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html), [APA](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html), or other formats, as long as a reader can easily find the reference.
@@ -102,7 +102,7 @@ You will need to research the original paper that discussed
 the dataset to find this information. Summarize this in your own words,
 do not copy from the source. 
 
-{% include note.html content="If you cannot find an appropriate data provenance or original source, then this dataset is probably not the best one to use for this project." %}
+{% include warning.html content="If you cannot find an appropriate data provenance or original source, then this dataset is probably not the best one to use for this project." %}
 
 ### Data Notebook
 
@@ -127,7 +127,7 @@ Your presentation, using PowerPoint, Prezi, Google Slides, or some
 other appropriate presentation medium, will be **at most 5 minutes
 long**. You should not present your Kaggle notebook, but extract key portions and data from your writeup into a formal presentation.
 
-{% include warning.html content="Practice beforehand to make sure
+{% include tip.html content="Practice beforehand to make sure
 you have a good sense for how much time you have. Five minutes is not
 very long at all." %}
 
