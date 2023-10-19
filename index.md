@@ -58,7 +58,7 @@ When you encounter a section of the text that uses R, **follow the instructions 
 | T 29 Aug | [Examining Relationships](https://www.kaggle.com/code/markgoadrich/math-215-examining-relationships) |
 | T 5 Sep | [Sampling and Designing Studies](https://www.kaggle.com/code/markgoadrich/math-215-sampling-designing-studies) |
 | T 2 Oct | [Estimation](https://www.kaggle.com/markgoadrich/math-215-estimation) |
-
+| R 19 Oct | [Hypothesis Testing for Proportions](https://www.kaggle.com/code/markgoadrich/math-215-hypothesis-testing-proportion) |
 
 
 <hr>
@@ -128,6 +128,7 @@ As you work to answer the questions in the labs, you will need to be recording y
 |4 | [Probability](https://www.kaggle.com/code/markgoadrich/math-215-lab-4-probability) |
 |5 | [Sampling Distributions](https://www.kaggle.com/code/markgoadrich/math-215-lab-5-sampling-distributions) |
 |6 | [Estimation and Confidence Intervals](https://www.kaggle.com/markgoadrich/math-215-lab-6-estimation) | 
+|7 | [Hypothesis Testing for Proportions](https://www.kaggle.com/code/markgoadrich/math-215-lab-7-hypothesis-testing-proportions) |
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
