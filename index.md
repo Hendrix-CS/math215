@@ -129,6 +129,7 @@ As you work to answer the questions in the labs, you will need to be recording y
 |5 | [Sampling Distributions](https://www.kaggle.com/code/markgoadrich/math-215-lab-5-sampling-distributions) |
 |6 | [Estimation and Confidence Intervals](https://www.kaggle.com/markgoadrich/math-215-lab-6-estimation) | 
 |7 | [Hypothesis Testing for Proportions](https://www.kaggle.com/code/markgoadrich/math-215-lab-7-hypothesis-testing-proportions) |
+|8 | [Hypothesis Testing (pg. 175)](https://www.kaggle.com/markgoadrich/math-215-lab-8-hypothesis-testing) |
 
 On these labs, you may work with a partner on the lab assignments. **Their name must be listed on any code you hand in as joint work**. A partnership should only turn in a **single copy** of the assignment.
 
