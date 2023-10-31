@@ -60,6 +60,7 @@ When you encounter a section of the text that uses R, **follow the instructions 
 | T 2 Oct | [Estimation](https://www.kaggle.com/markgoadrich/math-215-estimation) |
 | R 19 Oct | [Hypothesis Testing for Proportions](https://www.kaggle.com/code/markgoadrich/math-215-hypothesis-testing-proportion) |
 | T 24 Oct | [Hypothesis Testing for Means](https://www.kaggle.com/markgoadrich/math-215-hypothesis-testing-mean) |
+| T 31 Oct | [Independent and Matched Pairs](https://www.kaggle.com/markgoadrich/math-215-inference-for-relationships) |
 
 <hr>
 
