@@ -192,7 +192,7 @@ If you know that you will be absent, please email me so that we can find accomod
 
 ### A Level Work
 
-* Complete 9 Labs + 1 Partially Complete
+* Complete 8 Labs + 1 Partially Complete
 * Complete 18 Checkpoints + 2 Partially Complete
 * Complete 2 Exams
 * Complete Final Project
@@ -202,7 +202,7 @@ If you know that you will be absent, please email me so that we can find accomod
 
 ### B Level Work
 
-* Complete 8 Labs + 2 Partially Complete
+* Complete 7 Labs + 2 Partially Complete
 * Complete 16 Checkpoints + 3 Partially Complete
 * Complete 2 Exams
 * Complete Final Project
@@ -212,7 +212,7 @@ If you know that you will be absent, please email me so that we can find accomod
 
 ### C Level Work
 
-* Complete 7 Labs + 2 Partially Complete
+* Complete 6 Labs + 2 Partially Complete
 * Complete 14 Checkpoints + 4 Partially Complete
 * Complete 1 Exam + 1 Partially Complete
 * Partially Complete Final Project
@@ -221,7 +221,7 @@ If you know that you will be absent, please email me so that we can find accomod
 
 ### D Level Work
 
-* Complete 6 Labs
+* Complete 5 Labs
 * Complete 12 Checkpoints
 * Partially Complete 2 Exams
 * Partially Complete Final Project
