@@ -5,7 +5,7 @@ num: Final
 worktitle: Final Project
 topicdue: Tuesday, October 24 
 draftdue: Tuesday, November 21
-finaldue: Monday, December 5
+finaldue: Tuesday, December 5
 ---
 
 ## Description
