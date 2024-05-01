@@ -23,11 +23,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   students’ major disciplines are included throughout the course 
   as well as in one or more substantial projects.
 baseurl: "/math215" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hendrix-cs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: MATH 215
 title: Introductory Statistics
 semester: Fall 2023
+hypothesis: false
+
+jumbotext: slidebackground.com
+jumbourl: https://www.slidebackground.com/free-image/quality-school-statistics-free-backgrounds-1835.html
 
 navigation:
   - title: Overview

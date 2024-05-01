@@ -29,11 +29,13 @@ layout: default
                   {% endfor %}
           </div>
         </div>
+        {% if site.jumbourl %}
         <div class="row">
           <div class="col-md-12 text-center small">
-            <p>background image from <a href="https://www.slidebackground.com/free-image/quality-school-statistics-free-backgrounds-1835.html">slidebackground.com</a></p>
+            <p>background image from <a href="{{ site.jumbourl }}">{{ site.jumbotext }}</a></p>
           </div>
         </div>
+        {% endif %}
 
       </div>
     </section>
